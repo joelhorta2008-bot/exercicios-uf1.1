@@ -1,0 +1,75 @@
+:root {
+    --azul-escuro:#1e3a8a;
+    --fundo-claro:#f1f5f9;
+    --branco:#ffffff;
+    --vermelho:#ff0202;
+}
+body{
+
+}
+h1{
+
+}
+h2{
+
+}
+h3{
+
+}
+p{
+
+}
+a{
+
+}
+img{
+
+}
+header{
+
+}
+footer{
+
+}
+
+table{
+    border-collapse: collapse;
+}
+th{
+    background-color:#0004ff;
+    color: #ffffff;
+     border: 1px solid #000000;
+}
+td{
+    border: 1px solid #000000;
+}
+nav ul, nav li, nav a{
+    list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  text-decoration: none;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #1056a7;
+  font-weight: 1000;
+}
+
+.botao{
+
+}
+.cartao{
+    background-color: #dfdff7;
+    border: #000000;
+    border-radius: 3px;
+}
+.botao-secundario{
+
+}
+.destaques{
+
+}
+#agendamento{
+
+}
